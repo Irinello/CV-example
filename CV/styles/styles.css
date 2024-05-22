@@ -1,0 +1,265 @@
+/* Our app */
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #f6f6fa;
+}
+
+
+.app-wrapper{
+    display: flex ;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #fff;
+}
+
+/* Sidebar Styles */
+.sidebar-section{
+    background-color: #DFEEFF;
+}
+
+
+.sidebar-image{
+    margin-top: 40px;
+}
+
+.contacts-container{
+   padding-left: 40px;
+}
+
+.contacts-header{
+    color: #161d2a;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.contacts-item{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    color: #161d2a;
+    font-style: normal;
+ 
+    }
+
+.contacts-phone{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4489ff;
+    font-style: normal;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+
+.contacts-email{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4489ff;
+    font-style: normal;
+    margin-left: 10px;
+
+}
+
+.contacts-element{
+    margin-top: -12px;
+}
+
+.tech-skills-section{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.tech-skills-header{
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    font-style: normal;
+    line-height: normal;
+}
+
+.tech-skills-list{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+    font-style: normal;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.soft-skills-section{
+    padding-left: 40px;
+    margin-top: 65px;
+}
+
+.soft-skills-header{ 
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    font-style: normal;
+    line-height: normal;
+}
+
+.soft-skills-list{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+    font-style: normal;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+
+/* Main content styles */
+.right-side-container{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+}
+
+.about-me-profession{
+    font-weight: 700;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+}
+
+.about-me-name{
+    font-weight: 700;
+    font-size: 45px;
+    font-style: normal;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.about-me-description{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    font-style: normal;
+    margin-top: -20px;
+}
+
+.project-section{
+    margin-top: 40px;
+}
+
+.project-header{
+    font-weight: 700;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+}
+
+.project-list{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    margin-left: -20px;
+    margin-top: -10px;
+}
+
+.project-name{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #595959;
+    font-style: normal;
+}
+
+.project-info{
+    font-weight: 400;
+}
+
+.work-experience-section{
+    margin-top: 40px;
+}
+
+.work-experience-header{
+    font-weight: 700;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+}
+
+.company-name{
+    font-weight: 700;
+    font-size: 16px;
+    font-style: normal;
+    line-height: normal;
+}
+
+.company-info{
+    color: #6096ff;
+    margin-left: 10px;
+}
+
+.company-time{
+font-weight: 400;
+font-size: 12px;
+color: #a8a8a8;
+font-style: normal;
+line-height: normal;
+margin-top: -10px;
+}
+
+.company-elements-list{
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+font-style: normal;
+margin-left: -15px;
+margin-top: -5px;
+}
+
+
+.company-container{
+    margin-top: -10px;
+}
+
+.education-section{
+    margin-top: 50px;
+}
+
+.education-container{
+    font-weight: 700;
+    font-size: 22px;
+    font-style: normal;
+}
+
+.education-name{
+    font-weight: 700;
+    font-size: 16px;
+    color: #6096ff;
+    font-style: normal;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.education-info{
+    font-weight: 700;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 10px;
+}
+
+.education-time{
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;
+    font-style: normal;
+    margin-top: -10px;
+}
